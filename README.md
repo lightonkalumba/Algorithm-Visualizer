@@ -30,7 +30,7 @@ Visit the live application: [Algorithm Visualizer](https://your-demo-url.com)
 ### 1. Bubble Sort
 - **Time Complexity**: O(n²) average and worst case, O(n) best case
 - **Space Complexity**: O(1)
-- **Description**: Compares adjacent elements and swaps them if they're in wrong order
+- **Description**: Compares adjacent elements and swaps them if they're in wrong order.
 
 ### 2. Selection Sort
 - **Time Complexity**: O(n²) for all cases
